@@ -1,0 +1,11 @@
+{
+  "id" : 0,
+  "name" : "Race",
+  "description" : "Who is the fastest over a distance of 60 meters? Soon we will find out.",
+  "skills" : {		
+		"strength" : 0,
+		"toxicity" : 0,
+		"speed" : 100,
+		"energy" : 100
+	}
+}

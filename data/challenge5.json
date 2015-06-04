@@ -1,0 +1,11 @@
+{
+  "id" : 5,
+  "name" : "Endurance",
+  "description" : "The fastest over a long distance.",
+  "skills" : {		
+		"strength" : 70,
+		"toxicity" : 0,
+		"speed" : 60,
+		"energy" : 80
+	}
+}

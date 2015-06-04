@@ -1,0 +1,11 @@
+{
+  "id" : 8,
+  "name" : "Fight until death",
+  "description" : "Who will survive?",
+  "skills" : {		
+		"strength" : 70,
+		"toxicity" : 100,
+		"speed" : 0,
+		"energy" : 80
+	}
+}

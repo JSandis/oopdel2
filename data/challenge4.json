@@ -1,0 +1,11 @@
+{
+  "id" : 4,
+  "name" : "Hide and Seek",
+  "description" : "Best at hiding in the jungle.",
+  "skills" : {		
+		"strength" : 0,
+		"toxicity" : 0,
+		"speed" : 0,
+		"energy" : 0
+	}
+}

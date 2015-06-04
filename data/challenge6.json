@@ -1,0 +1,12 @@
+{
+  "id" : 6,
+  "name" : "Kill an Elephant",
+  "description" : "Who can kill an elephant?",
+  "skills" : {		
+		"strength" : 0,
+		"toxicity" : 100,
+		"speed" : 0,
+		"energy" : 100
+	}
+
+}

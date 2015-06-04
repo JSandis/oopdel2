@@ -1,0 +1,11 @@
+{
+  "id" : 1,
+  "name" : "Tug of War",
+  "description" : "The strongest will win.",
+  "skills" : {		
+		"strength" : 100,
+		"toxicity" : 0,
+		"speed" : 0,
+		"energy" : 80
+	}
+}

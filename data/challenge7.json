@@ -1,0 +1,11 @@
+{
+  "id" : 7,
+  "name" : "Swimming Race",
+  "description" : "Who is the fastest in water? Soon we will find out.",
+  "skills" : {		
+		"strength" : 50,
+		"toxicity" : 0,
+		"speed" : 50,
+		"energy" : 0
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "id" : 9,
+  "name" : "Fasting",
+  "description" : "Abstinence from food.",
+  "skills" : {		
+		"strength" : 0,
+		"toxicity" : 0,
+		"speed" : 0,
+		"energy" : 100
+	}
+}

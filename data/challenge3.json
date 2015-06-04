@@ -1,0 +1,11 @@
+{
+  "id" : 3,
+  "name" : "Kill rats",
+  "description" : "Kill as many rats as possible.",
+  "skills" : {		
+		"strength" : 70,
+		"toxicity" : 100,
+		"speed" : 50,
+		"energy" : 50
+	}
+}
