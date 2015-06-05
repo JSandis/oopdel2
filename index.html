@@ -4,8 +4,8 @@
 		<meta charset="utf-8">
 		<title>Snake Wars</title>
 
-		<link rel="stylesheet" href="css/main.css">
   		<link rel="stylesheet" href="css/meyerreset.css">
+		<link rel="stylesheet" href="css/main.css">
 
   		<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
   		<script src="js/main.js"></script>
@@ -13,9 +13,17 @@
 	</head>
 	<body>
 		<header>
-			<h1>Snake Wars</h1>
-			<button id="restart-button">Starta om spelet</button>
-			<div id="header-message-box"></div>
+			<ul>
+				<li>
+					<a href=""><h2>Snake Wars</h2></a>
+				</li>
+				<li>
+					<a href="" id="restart">Starta om</a>
+				</li>
+				<li>
+					<div id="header-message"></div>
+				</li>
+			</ul>
 		</header>
 
 		<div>
@@ -31,12 +39,12 @@
 						<option value="CornSnake">Corn Snake</option>
 						<option value="BlackMamba">Black Mamba</option>
 						<option value="BallPython">Ball Python</option>
-						<option value="GreenAnakonda">Green Anakonda</option>
+						<option value="GreenAnaconda">Green Anaconda</option>
 					</select>
 				</div>
 	  			<button type="submit" value="start">Start</button><br><br>
 			</form>
 		</div>
-		<div id="message-box"></div>
+		<div id="message"></div>
 	</body>
 </html>
